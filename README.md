@@ -1,4 +1,4 @@
-Statistical Arbitrage Backtester
+# Statistical Arbitrage Backtester
 
 **Author:** Dzandu Selorm (dzand-cmd)  
 **Project Type:** Quantitative Trading  

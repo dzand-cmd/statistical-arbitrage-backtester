@@ -25,4 +25,5 @@ statistical-arbitrage-backtester/
 ## How to run  
 git clone https://github.com/dzand-cmd/statistical-arbitrage-backtester.git  
 cd statistical-arbitrage-backtester
+python statistical_arbitrage_backtester.py
 

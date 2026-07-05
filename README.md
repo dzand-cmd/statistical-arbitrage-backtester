@@ -1,6 +1,6 @@
 Statistical Arbitrage Backtester
 
-Author:** Dzandu Selorm (dzand-cmd)  
+**Author:** Dzandu Selorm (dzand-cmd)  
 **Project Type:** Quantitative Trading  
 **Language:** Python  
 **Status:** Complete
